@@ -1,2 +1,1 @@
-# Precourse-Henry
-Repositorio del modulo 2 del prepcourse Henry
+Este proyecto es una prueba de crear un repositorio y clonarlo desde github a mi computadora.
